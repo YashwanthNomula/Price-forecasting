@@ -1,4 +1,4 @@
-# Price Prediction using XGBoost and Streamlit
+# Price Forecasting using XGBoost and Streamlit
 
 ## Project Overview
 
